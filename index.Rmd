@@ -1,7 +1,7 @@
 ---
-title: "Gov 50 Final Project"
-author: "Your Name Here"
-description: "My final project"
+title: "Thomas' Gov 50 Final Project"
+author: "Thomas J. Mete"
+description: "This is my Gov 50 Final Project for Fall 2023. The topic and research question have not yet been finalized but see 'Project Thoughts' for some preliminary ideas"
 output:
   distill::distill_article:
     self_contained: false
@@ -11,4 +11,4 @@ output:
 
 ## Project thoughts
 
-I am interested in exploring data related to...
+Over the course of this final project I am intrested in exploring the transition of hockey players from junior leagues to the NHL. I could look at their PPG in both leauges, see how long it takes depending on the junior leauge how long it takes for them to clear a certain salary or points mark, or see if their draft position or country of birth is a better indicator for NHL success than the junior leauge they played in. Potential sources of data are Corsica Hockey, HockeyDB, EliteProspects, or official leauge websites such as the NHL, OHL, WHL, QMJHL, NCAA, SHL.
